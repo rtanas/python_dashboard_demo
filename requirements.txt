@@ -1,3 +1,6 @@
 ipywidgets
 voila
 pandas
+ipympl
+matplotlib
+numpy
